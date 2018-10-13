@@ -20,3 +20,14 @@ C:\Users\mbm-m\Desktop\Repositories\Homework\CIDM3312-Fall2018-InClass-buffteksf
 C:\Users\mbm-m\Desktop\Repositories\Homework\CIDM3312-Fall2018-InClass-buffteksfinal\BuffteksFinal\obj\Debug\netcoreapp2.1\BuffteksFinal.AssemblyInfo.cs
 C:\Users\mbm-m\Desktop\Repositories\Homework\CIDM3312-Fall2018-InClass-buffteksfinal\BuffteksFinal\obj\Debug\netcoreapp2.1\BuffteksFinal.dll
 C:\Users\mbm-m\Desktop\Repositories\Homework\CIDM3312-Fall2018-InClass-buffteksfinal\BuffteksFinal\obj\Debug\netcoreapp2.1\BuffteksFinal.pdb
+C:\Users\mbm-m\Desktop\Repositories\Homework\Assignment4\BuffteksFinal\bin\Debug\netcoreapp2.1\BuffteksFinal.deps.json
+C:\Users\mbm-m\Desktop\Repositories\Homework\Assignment4\BuffteksFinal\bin\Debug\netcoreapp2.1\BuffteksFinal.runtimeconfig.json
+C:\Users\mbm-m\Desktop\Repositories\Homework\Assignment4\BuffteksFinal\bin\Debug\netcoreapp2.1\BuffteksFinal.runtimeconfig.dev.json
+C:\Users\mbm-m\Desktop\Repositories\Homework\Assignment4\BuffteksFinal\bin\Debug\netcoreapp2.1\BuffteksFinal.dll
+C:\Users\mbm-m\Desktop\Repositories\Homework\Assignment4\BuffteksFinal\bin\Debug\netcoreapp2.1\BuffteksFinal.pdb
+C:\Users\mbm-m\Desktop\Repositories\Homework\Assignment4\BuffteksFinal\obj\Debug\netcoreapp2.1\BuffteksFinal.csprojAssemblyReference.cache
+C:\Users\mbm-m\Desktop\Repositories\Homework\Assignment4\BuffteksFinal\obj\Debug\netcoreapp2.1\BuffteksFinal.csproj.CoreCompileInputs.cache
+C:\Users\mbm-m\Desktop\Repositories\Homework\Assignment4\BuffteksFinal\obj\Debug\netcoreapp2.1\BuffteksFinal.AssemblyInfoInputs.cache
+C:\Users\mbm-m\Desktop\Repositories\Homework\Assignment4\BuffteksFinal\obj\Debug\netcoreapp2.1\BuffteksFinal.AssemblyInfo.cs
+C:\Users\mbm-m\Desktop\Repositories\Homework\Assignment4\BuffteksFinal\obj\Debug\netcoreapp2.1\BuffteksFinal.dll
+C:\Users\mbm-m\Desktop\Repositories\Homework\Assignment4\BuffteksFinal\obj\Debug\netcoreapp2.1\BuffteksFinal.pdb
