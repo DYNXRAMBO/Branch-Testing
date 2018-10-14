@@ -3271,11 +3271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mbm-m\\Desktop\\Repositories\\Homework\\Assignment4\\BuffteksFinal\\BuffteksFinal.csproj",
+      "projectUniqueName": "c:\\Users\\mbm-m\\Desktop\\Repositories\\Homework\\Assignment4\\BuffteksFinal\\BuffteksFinal.csproj",
       "projectName": "BuffteksFinal",
-      "projectPath": "C:\\Users\\mbm-m\\Desktop\\Repositories\\Homework\\Assignment4\\BuffteksFinal\\BuffteksFinal.csproj",
+      "projectPath": "c:\\Users\\mbm-m\\Desktop\\Repositories\\Homework\\Assignment4\\BuffteksFinal\\BuffteksFinal.csproj",
       "packagesPath": "C:\\Users\\mbm-m\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mbm-m\\Desktop\\Repositories\\Homework\\Assignment4\\BuffteksFinal\\obj\\",
+      "outputPath": "c:\\Users\\mbm-m\\Desktop\\Repositories\\Homework\\Assignment4\\BuffteksFinal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

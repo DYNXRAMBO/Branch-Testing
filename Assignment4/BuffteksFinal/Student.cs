@@ -16,6 +16,7 @@ namespace BuffteksFinal
         public string Email {get; set; }
         //role
         public string Role { get; set; }
+        public int TeamID {get; set;}
 
         public override string ToString()
         {

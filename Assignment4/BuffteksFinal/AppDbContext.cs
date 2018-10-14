@@ -17,7 +17,12 @@ namespace BuffteksFinal
             optionsBuilder.UseSqlite(ConnectionString); //#B
         }        
 
-        public DbSet<Student> Students { get; set; }        
+        public DbSet<Student> Students { get; set; }
+        public DbSet<Team> Teams {get; set;}   
+        public DbSet<Client> Clients {get; set;}   
+        public DbSet<Organization> Organizations {get; set;}   
+
+
 
     }    
 }
