@@ -1,0 +1,4 @@
+C:\Users\mbm-m\Desktop\Repositories\Homework\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojAssemblyReference.cache
+C:\Users\mbm-m\Desktop\Repositories\Homework\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\mbm-m\Desktop\Repositories\Homework\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\mbm-m\Desktop\Repositories\Homework\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
