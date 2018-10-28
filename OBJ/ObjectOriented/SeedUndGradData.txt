@@ -1,0 +1,3 @@
+Darrel Hix, 01/05/1996,1, CIS, 3.0,RHS,Senior
+Brent McCollum, 01/05/1996,2, CJ, 3.0,PDHS,Junior
+Vicki Marler, 06/23/1985,3, AG, 3.0,CHS,Freshman
