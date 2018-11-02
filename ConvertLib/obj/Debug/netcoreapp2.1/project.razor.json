@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\mbm-m\\Desktop\\Repositories\\Homework\\ConvertLib\\ConvertLib.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
